@@ -1,5 +1,5 @@
 - 🍊 Hi, I’m @maromandarino
-- 👀 I’m interested in blockchain and smart contracts
+- 👀 I’m interested in blockchain and smart contracts. About web development I use mainly PHP, Python, Js, HTML and CSS
 - 🌱 I’m currently deciding which smart contracts language to learn
 - 💞️ I’m looking to collaborate on ... idk yet lol
 - 📫 How to reach me -> maromandarino@gmail.com
